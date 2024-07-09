@@ -356,6 +356,8 @@
 
 .portfolio-inner img {
     transition: 0.5s;
+    height: 300px;
+    object-fit: cover;
 }
 
 .portfolio-inner:hover img {
